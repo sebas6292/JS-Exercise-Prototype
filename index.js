@@ -111,10 +111,10 @@ function Airplane(name) {
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. 
-    2. 
-    3. 
-    4. 
+    1. window binding - "this" will be in the window/console
+    2. Implicit - wherever a function is called by the left of the dot.
+    3. Explicit - call, apply, bind. call: invokes a function and passes arguments one by one. Apply is similiar but passes arguments as arrays. lastly, bind does not invoke but reutrn a new function and passes it one by one.
+    4. New Binding - 
   */
   
   
